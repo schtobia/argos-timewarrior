@@ -1,0 +1,4 @@
+pylama>=7.7.0
+pylint>=2.3.0
+yapf>=0.27.0
+timew>=0.0.22
